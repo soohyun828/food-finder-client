@@ -1,6 +1,15 @@
 # Food Finder
 한식? 중식? 일식? 원하는 음식 종류가 있다면 해당 음식점들을 리스트업 해주고 경로 안내까지!
 
+#### [사용기술]
+- 언어: Dart(프론트엔드), Python (백엔드), SQL
+- 프론트엔드: Flutter
+- 서버: Flask
+- DB: MYSQL
+- IDE: VSC, Android studio
+- API: Kakao maps API
+  
+
 ## 페이지 별 기능
 ### [초기화면 & 회원가입 & 로그인]
 #### [초기화면]
